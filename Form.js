@@ -8,7 +8,7 @@ class Form{
         
     }
     display(){
-        this.button.position(displayWidth/2 ,displayHeight/2 + 100);
+        this.button.position(1100,650);
         
     }
     
